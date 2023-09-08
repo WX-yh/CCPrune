@@ -10,5 +10,5 @@ This code refers to "Learning Efficient Convolutional Networks through Network S
 https://github.com/Eric-mingjie/network-slimming  
 
 
-## Contact
+### Contact
 
