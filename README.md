@@ -7,4 +7,8 @@ https://www.sciencedirect.com/science/article/pii/S0925231221006056
 
 
 This code refers to "Learning Efficient Convolutional Networks through Network Slimming":  
-https://github.com/Eric-mingjie/network-slimming
+https://github.com/Eric-mingjie/network-slimming  
+
+
+#Contact
+1374454341@qq.com
